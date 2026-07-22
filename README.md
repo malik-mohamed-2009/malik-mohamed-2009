@@ -1,6 +1,17 @@
 # Hi! 👋
 
-Godot game development and open-source projects.
+I am a main character leading software developer since 2009
+He begins a mission of a creating games and bring some testing developer.
+
+Some developing sponsors :
+
+1. Python
+2. GDScript
+3. Java
+4. HTML
+5. CSS
+6. JavaScript
+7. Kotlin
 
 ---
 
