@@ -6,14 +6,12 @@ I have been a lead software developer since 2009, on a mission to create excitin
 
 ---
 
-​### 🛠️ Core Languages & Tech Stack
-1. ​Python
-​2. GDScript
-3. ​Java
-​4. HTML
-5. ​CSS
-6. ​JavaScript
-7. ​Kotlin
+### ​🛠️ Core Languages & Tech Stack
+1. GDScript
+2. Python
+3. Java
+4. HTML
+5. CSS
 
 ---
 
