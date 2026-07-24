@@ -1,22 +1,24 @@
-# Hi! 👋
+# Hi!
 
-I am a main character leading software developer since 2009
-He begins a mission of a creating games and bring some testing developer.
+I have been a lead software developer since 2009, on a mission to create exciting games and work alongside test developers to deliver great experiences.
 
-I am main focused on game development with Godot (formerly ITsMagic)
+​My main focus is game development using Godot (formerly ITsMagic).
 
-Some developing sponsors :
+---
 
-1. Python
-2. GDScript
-3. Java
-4. HTML
-5. CSS
-6. JavaScript
-7. Kotlin
+​### 🛠️ Core Languages & Tech Stack
+​Python
+​GDScript
+​Java
+​HTML
+​CSS
+​JavaScript
+​Kotlin
 
-### 🤖 AI Tech
-Brainstorm instantly with AI (e.g., Gemini, ChatGPT) from helping our codes.
+---
+
+### ​🤖 AI Tech
+​I leverage AI tools (such as Gemini and ChatGPT) for instant brainstorming, debugging, and code optimization.
 
 ---
 
