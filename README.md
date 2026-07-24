@@ -15,6 +15,9 @@ Some developing sponsors :
 6. JavaScript
 7. Kotlin
 
+### 🤖 AI Tech
+Brainstorm instantly with AI (e.g., Gemini, ChatGPT) from helping our codes.
+
 ---
 
 ### 📊 GitHub Analytics
