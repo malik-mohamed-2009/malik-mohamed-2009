@@ -3,6 +3,8 @@
 I am a main character leading software developer since 2009
 He begins a mission of a creating games and bring some testing developer.
 
+I am main focused on game development with Godot (formerly ITsMagic)
+
 Some developing sponsors :
 
 1. Python
