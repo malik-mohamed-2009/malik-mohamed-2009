@@ -2,7 +2,7 @@
 
 I have been a lead software developer since 2009, on a mission to create exciting games and work alongside test developers to deliver great experiences.
 
-​My main focus is game development using Godot (formerly ITsMagic), and focus is mobile gaming as least three years ago.
+​My main focus is game development using Godot and focus is mobile gaming as least three years ago.
 
 ---
 
