@@ -1,5 +1,5 @@
-# Hi!
-- I'm korout, a XVII years old developer!
+# Hi !
+- I'm korout, a XVII years old developer !
 
 ---
 
