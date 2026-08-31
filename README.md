@@ -1,9 +1,8 @@
 # Hi!
+- I'm korout, a XVII years old developer!
 
 ---
 
-### ​🛠️ Tech stack
+### ​🛠️ some tech stack programming
 1. GDScript
-2. Kotlin
-3. HTML
-4. CSS
+2. HTML
