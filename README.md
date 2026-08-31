@@ -3,6 +3,6 @@
 
 ---
 
-### ​🛠️ some tech stack programming
+### some tech stack programming
 1. GDScript
 2. HTML
